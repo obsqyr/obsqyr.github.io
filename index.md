@@ -4,4 +4,8 @@ Student in applied phyiscs and electrical engineering: Applied Physics and Theor
 
 ## My projects
 
+* Project Course in Applied Physics, CDIO: Computational Physics Project
+
 ## My skills
+
+* Git and GitHub
