@@ -1,6 +1,6 @@
 # Nicholas Sepp Löfgren
 
-Final year student in applied phyiscs and electrical engineering: Applied Physics and Theory, Modelling and Computation at Linköping University. Currently working on Master thesis.
+Final year student in applied physics and electrical engineering with master profile Applied Physics and Theory, Modelling and Computation at Linköping University. Currently working on Master thesis.
 
 ## Finished projects
 
