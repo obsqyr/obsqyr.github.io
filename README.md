@@ -2,6 +2,10 @@
 
 Final year student in applied physics and electrical engineering with master profile Applied Physics and Theory, Modelling and Computation at Linköping University. Currently working on Master thesis.
 
+## Current projects
+
+* TQTF33 Master thesis at IFM, Linköping's University. [GitHub repo](https://github.com/obsqyr/master-thesis)
+
 ## Finished projects
 
 * TFYA92 Project Course in Applied Physics, CDIO: Computational Physics Project. [GitHub repo](https://github.com/obsqyr/TFYA92-group-A)
