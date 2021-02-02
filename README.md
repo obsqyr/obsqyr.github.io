@@ -4,7 +4,7 @@ Final year student in applied physics and electrical engineering with master pro
 
 ## Current projects
 
-* TQTF33 Master thesis at IFM, Linköping's University. [GitHub repo](https://github.com/obsqyr/master-thesis)
+* TQTF33 Master thesis at IFM, Linköping University. [GitHub repo](https://github.com/obsqyr/master-thesis)
 
 ## Finished projects
 
