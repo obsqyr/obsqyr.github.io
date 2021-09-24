@@ -2,7 +2,7 @@
 
 Recent master of science graduate. I studied applied physics and electrical engineering with master profile Applied Physics - Theory, Modelling and Computation at Linköping University.
 
-Contact me at [n.sepplofgren@gmail.com](n.sepplofgren@gmail.com)
+Contact me at <n.sepplofgren@gmail.com>
 
 ## Current projects
 * None currently. Open to new opportunities!
